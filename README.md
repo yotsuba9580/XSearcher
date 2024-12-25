@@ -86,7 +86,7 @@ python XBeholder.py
 ## Sample Outputs
 
 ### XUserSearch
-An example output file: [user_data.csv](./user_data.csv)
+An example output file: [users_data.csv](./users_data.csv)
 
 ### XBeholder
 An example output file: [elonmusk_tweets.csv](./elonmusk_tweets.csv)
