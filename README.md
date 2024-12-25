@@ -1,4 +1,4 @@
-# Twitter Crawler Tool
+# XSearcher
 
 A Twitter crawler tool based on `twikit` that supports:
 - Iterative traversal of followers and followings starting from seed users to collect user information.
