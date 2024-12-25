@@ -8,8 +8,6 @@ from datetime import datetime, timezone
 
 # 配置参数
 CONFIG = {
-    "follow_limit": 20,  # 每次获取粉丝/关注者的数量
-    "depth_limit": 2,  # 递归深度
     "delay_min": 3,  # 随机延迟最小时间
     "delay_max": 8,  # 随机延迟最大时间
     "max_tweets": 30,  # 搜索最大推文数
